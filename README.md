@@ -7,8 +7,8 @@ Here’s a GitHub profile README tailored to your background and career goals. Y
 I'm currently pursuing a second Master's degree in **Interdisciplinary Data Science** at **Duke University**, specializing in:
 
 - **Data Engineering**
-- **Natural Language Processing (NLP)**
-- **Large Language Models (LLMs)**
+- **Cloud Computing in AWS and Azure**
+- **Large Language Models (LLMs) with RAG**
 
 ---
 
@@ -53,8 +53,8 @@ I am eager to leverage my interdisciplinary potential and push the boundaries be
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bobzhang26/))
+- GitHub: [Your GitHub](https://github.com/BobZhang26)
 - Personal Website: [Your Website](https://yourwebsite.com)
 
 ---
