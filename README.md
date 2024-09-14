@@ -1,8 +1,4 @@
-Here’s a GitHub profile README tailored to your background and career goals. You can copy and paste this into your GitHub profile or modify it further to add more personal touches:
-
----
-
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Bob Zhang 👋
 
 I'm currently pursuing a second Master's degree in **Interdisciplinary Data Science** at **Duke University**, specializing in:
 
