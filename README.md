@@ -53,19 +53,13 @@ I am eager to leverage my interdisciplinary potential and push the boundaries be
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bobzhang26/))
-- GitHub: [Your GitHub](https://github.com/BobZhang26)
-- Personal Website: [Your Website](https://yourwebsite.com)
+- LinkedIn: [Bob Zhang](https://www.linkedin.com/in/bobzhang26/))
+- GitHub: [BobZhang26](https://github.com/BobZhang26)
+- Personal Website: [Bob Zhang](https://bobzhangzz.gitlab.io/mystaticwebsite/))
+- Youtube channel: [Bobby Zhang](https://www.youtube.com/@bobbyzhang9455)
 
 ---
 
 Feel free to reach out! I'm always open to collaboration, especially in the areas of **data science**, **cloud computing**, and **machine learning**. 😊
 
 ---
-
-You can add your own LinkedIn, GitHub, and personal website links to the profile to complete it. Let me know if you'd like further adjustments or details!
-
-<!---
-BobZhang26/BobZhang26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
