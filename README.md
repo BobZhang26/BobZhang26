@@ -49,9 +49,9 @@ I am eager to leverage my interdisciplinary potential and push the boundaries be
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [Bob Zhang](https://www.linkedin.com/in/bobzhang26/))
+- LinkedIn: [Bob Zhang](https://www.linkedin.com/in/bobzhang26/)
 - GitHub: [BobZhang26](https://github.com/BobZhang26)
-- Personal Website: [Bob Zhang](https://bobzhangzz.gitlab.io/mystaticwebsite/))
+- Personal Website: [Bob Zhang](https://bobzhangzz.gitlab.io/mystaticwebsite/)
 - Youtube channel: [Bobby Zhang](https://www.youtube.com/@bobbyzhang9455)
 
 ---
